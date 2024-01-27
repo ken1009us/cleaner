@@ -1,6 +1,6 @@
 # Python Comment-out Code Cleaner CLI
 
-Python Code Cleaner CLI (pycleancodecli) is a tool designed to clean up Python files by removing comments and unnecessary whitespace. It helps in maintaining a cleaner, more readable codebase.
+Python Code Cleaner CLI ([pycleancodecli](https://github.com/ken1009us/pycleancodecli)) is a tool designed to clean up Python files by removing comments and unnecessary whitespace. It helps in maintaining a cleaner, more readable codebase.
 
 ## Prerequisites
 
@@ -28,7 +28,7 @@ Options:
 Example:
 
 ```bash
-pycleancodecli --dry-run example.py
+pycleancodecli example.py --dry-run
 ```
 
 This will clean up example.py and show the cleaned code without overwriting the original file.
