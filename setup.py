@@ -7,7 +7,7 @@ setup(
     install_requires=[],
     entry_points={
         "console_scripts": [
-            "cleaner=cleaner.main:main",
+            "pycleancodecli=pycleancodecli.main:main",
         ],
     },
     author="Ken Wu",
